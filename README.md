@@ -9,7 +9,7 @@
 
 * WSTP和WolframLibrary用途
 > 对个人来说建议用WolframLibrary，速度更快，也支持双向调用。对于WSTP，适合做远程连接程序，但是写算法开发函数，建议使用WolframLibrary。
-
+![](https://raw.githubusercontent.com/yangyongkang2000/C-CPP_WolframLibrary_Example/master/Example_Benchmark/Image/Benchmark1.png)
 * 例子
 > 我写了几个简单例子，其中一个是用归并排序求逆序数，我与python写的速度对比了一下。python代码如下 ,Python代码来自于[LeetCode](https://zhuanlan.zhihu.com/p/40695917)
 
